@@ -18,8 +18,22 @@
     <string name="valetpassword">Ingrese su password</string>
     <string name="valbtnlogin">INGRESAR</string>
     <string name="valtitulovoluntario">UNETE A NOSOTROS</string>
+    <string name="valcondicionesvoluntario">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
     <string name="valcbaceptar">¿Acepta los términos y condiciones?</string>
     <string name="valcbrecordar">Guardar información</string>
     <string name="valbtnregistrar">REGISTRAR USUARIO</string>
     <string name="valtituloregistro">REGISTRAR USUARIO</string>
+    <string name="valetnombrereg">Ingrese su nombre</string>
+    <string name="valetapellidoreg">Ingrese su apellido</string>
+    <string name="valetemailreg">Ingrese su email</string>
+    <string name="valetcelularreg">Ingrese su número de celular</string>
+    <string name="valetusuarioreg">Ingrese su usuario de autenticación</string>
+    <string name="valetpasswordreg">Ingrese su password</string>
+    <string name="valetpasswordreg2">Repita su password</string>
+    <string name="valbtnregistrarusuario">REGISTRAR</string>
+    <string name="msgerrorusuriopass">Ingrese su usuario y password</string>
+    <string name="msgerrordatosreg">Esta información es obligatoria para el registro.</string>
+    <string name="msgerrorpasswordreg">Su password no coincide</string>
+    <string name="msgerrorapilogin">Error de comunicación con la API Rest</string>
+    <string name="valbtnregistrarvoluntario">REGISTRARME COMO VOLUNTARIO</string>
 </resources>
