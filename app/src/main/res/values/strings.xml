@@ -36,4 +36,5 @@
     <string name="msgerrorpasswordreg">Su password no coincide</string>
     <string name="msgerrorapilogin">Error de comunicación con la API Rest</string>
     <string name="valbtnregistrarvoluntario">REGISTRARME COMO VOLUNTARIO</string>
+    <string name="valtextoesvoluntario">GRACIAS POR SER PARTE DE NUESTRO EQUIPO</string>
 </resources>
